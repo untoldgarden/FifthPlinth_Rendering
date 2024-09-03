@@ -64,4 +64,3 @@ This Unity project is designed to help artists render their Fifth Plinth artwork
 
 If you encounter any issues or have questions, please reach out to our technical support team at support@meadow.space.
 
-We hope you enjoy using this tool to bring your Fifth Plinth artwork to life!
