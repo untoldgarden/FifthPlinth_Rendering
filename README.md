@@ -45,7 +45,8 @@ This Unity project is designed to help artists render their Fifth Plinth artwork
    - In the top menu, go to "Window" > "Rendering" > "Lighting"
    - In the Lighting window that opens, scroll down to find the "Generate Lighting" button
    - Click "Generate Lighting" and wait for the process to complete (this may take a few minutes)
-![Uploading Screenshot 2024-09-03 at 00.04.52.png…]()
+<img width="576" alt="Screenshot 2024-09-03 at 00 04 52" src="https://github.com/user-attachments/assets/9e9e1ece-eedb-4e8b-9bd2-42e26ddbfde9">
+
 
 5. **Render Your Artwork**
    - In the top menu, go to "Window" > "General" > "Recorder"
