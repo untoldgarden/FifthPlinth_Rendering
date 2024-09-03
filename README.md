@@ -12,6 +12,8 @@ This Unity project is designed to help artists render their Fifth Plinth artwork
    - Click on the green "Code" button
    - Select "Download ZIP"
    - Once downloaded, extract the ZIP file to a location on your computer
+  <img width="911" alt="Screenshot 2024-09-03 at 01 50 45" src="https://github.com/user-attachments/assets/b972c6b1-c5ea-4754-8cfa-0ac63e346232">
+
 
 2. **Open the Project in Unity**
    - Install Unity Hub if you haven't already (download from [unity3d.com](https://unity3d.com/get-unity/download))
