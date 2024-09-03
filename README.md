@@ -3,7 +3,7 @@
 ![Image Sequence_002_0000](https://github.com/user-attachments/assets/5a285735-b909-4f48-8b35-ba7587aa2c2e)
 
 
-This Unity project is designed to help artists render their Fifth Plinth artworks. Follow these simple steps to get started and create your renders.
+This Unity project is a simple setup helping artists render their Fifth Plinth artworks. Follow these simple steps to get started and create your renders.
 
 ## Installation
 
