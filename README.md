@@ -20,7 +20,7 @@ This Unity project is a simple setup helping artists render their Fifth Plinth a
    - Open Unity Hub
    - Click on "Open" and navigate to the folder where you extracted the project
    - Select the project folder and click "Open"
-   - Unity will open the project (this may take a few minutes)<img width="576" alt="Screenshot 2024-09-03 at 00 04 52" src="https://github.com/user-attachments/assets/41aabfdb-8bb5-4a8d-ad31-6e01b4187bfa">
+   - Unity will open the project (this may take a few minutes)
 
 
 ## Usage
